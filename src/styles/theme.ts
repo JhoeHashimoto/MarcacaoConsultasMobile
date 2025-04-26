@@ -12,11 +12,11 @@ export default {
    },
    typography: {
       title: {
-         fontSize: 24,
+         fontSize: 25,
          fontWeight: 'bold',
       },
       subtitle: {
-         fontSize: 18,
+         fontSize: 19,
          fontWeight: '600',
       },
       body: {
@@ -29,9 +29,9 @@ export default {
       },
    },
    spacing: {
-      small: 8,
-      medium: 16,
-      large: 24,
-      xlarge: 32,
+      small: 9,
+      medium: 17,
+      large: 25,
+      xlarge: 33,
    },
 };
